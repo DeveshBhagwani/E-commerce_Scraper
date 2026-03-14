@@ -1,0 +1,11 @@
+# Ignore the virtual environment
+venv/
+.venv/
+
+# Ignore the private API keys
+.env
+
+# Ignore Python cache and local data
+__pycache__/
+*.csv
+.DS_Store
